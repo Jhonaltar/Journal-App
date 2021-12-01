@@ -102,7 +102,7 @@ export const RegisterScreen = () => {
         </button>
 
         <Link className="link" to="/auth/login">
-          Already registerd?
+          return to login ?
         </Link>
       </form>
     </>
